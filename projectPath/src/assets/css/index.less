@@ -1,0 +1,95 @@
+@charset "utf-8";
+@rem:375/10rem;
+.body-main{
+  margin-bottom: 53/@rem;
+}
+.vux-slider img{
+  width: 100%;
+  height: 100%;
+}
+.bottom-bar{
+  position: fixed !important;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.body-view{
+  margin-top: 35/@rem;
+  margin-bottom: 53/@rem;
+}
+
+//wechat
+.wechat{
+  background-color: #ccc;
+  .vux-swiper-item{
+    width: 100%;
+    img{
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+//图文列表
+.picture{
+  .img-list .pic-list{
+    padding: 10/@rem;
+    li{
+      width: 100%;
+      margin-bottom: 10/@rem;
+      .img-show{
+        position: relative;
+        width: 160/@rem;
+        height: auto;
+        img{
+          width: 100%;
+        }
+        span{
+          position: absolute;
+          overflow: hidden;
+          width: 100%;
+          bottom: 0;
+          left: 0;
+          color: #fff;
+          background-color:rgba(0,0,0,0.2);
+          white-space: nowrap;
+          -ms-text-overflow: ellipsis;
+          text-overflow: ellipsis;
+        }
+        .rate{
+          display: block !important;
+        }
+      }
+    }
+  }
+}
+//快递
+.kuaidi{
+  .timeline-demo {
+    p {
+      color: #888;
+      font-size: 0.8rem;
+    }
+    h4 {
+      color: #666;
+      font-weight: normal;
+    }
+    .recent {
+      color: rgb(4, 190, 2)
+    }
+  }
+}
+//天气
+.weather{
+  .vux-circle-demo {
+    text-align: center;
+  }
+  .vux-circle-demo > div {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .circle-demo-range {
+    width: 250px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+}

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dc7b21d-b01e-4845-8286-21f30319ac31" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/projectPath/src/assets/css/index.less">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="22">
+                    <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1744641254">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="5" />
+          <entry key="json" value="3" />
+          <entry key="less" value="5" />
+          <entry key="vue" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="5" />
+          <entry key="Less" value="5" />
+          <entry key="Vue.js" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="65" />
+          <entry key="js" value="997" />
+          <entry key="json" value="50" />
+          <entry key="less" value="197" />
+          <entry key="vue" value="1101" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="65" />
+          <entry key="JSON" value="50" />
+          <entry key="JavaScript" value="997" />
+          <entry key="Less" value="197" />
+          <entry key="Vue.js" value="1101" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/style/theme.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/components/kuaidi/kuaidi.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#140#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/mock/db.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4928">
+              <caret line="200" column="14" lean-forward="true" selection-start-line="200" selection-start-column="14" selection-end-line="200" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/components/weather/weather.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/components/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-518">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="e#465#521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projectPath/src/components/piclist/picture.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projectPath/src/components/HelloFromVux.vue" />
+        <option value="$PROJECT_DIR$/projectPath/src/assets/css/theme.less" />
+        <option value="$PROJECT_DIR$/projectPath/index.html" />
+        <option value="$PROJECT_DIR$/projectPath/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/projectPath/src/style/theme.less" />
+        <option value="$PROJECT_DIR$/projectPath/src/components/weather/list.vue" />
+        <option value="$PROJECT_DIR$/projectPath/src/components/pic.vue" />
+        <option value="$PROJECT_DIR$/projectPath/src/assets/css/index.less" />
+        <option value="$PROJECT_DIR$/projectPath/src/components/like.vue" />
+        <option value="$PROJECT_DIR$/projectPath/src/App.vue" />
+        <option value="$PROJECT_DIR$/projectPath/src/components/index.vue" />
+        <option value="$PROJECT_DIR$/projectPath/src/router/index.js" />
+        <option value="$PROJECT_DIR$/projectPath/src/components/piclist/picture.vue" />
+        <option value="$PROJECT_DIR$/projectPath/src/main.js" />
+        <option value="$PROJECT_DIR$/projectPath/src/mock/db.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/projectPath/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/@antv/adjust/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@antv/attr/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@antv/f2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@antv/gl-matrix/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@antv/scale/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@antv/util/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/alphanum-sort/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-filter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-find/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-shuffle/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/autosize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/blueimp-md5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caniuse-api/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/clap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/coa/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/colormin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/compare-versions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/countup.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-color-names/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cssnano/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/defined/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/draftlog/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escodegen/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escodegen/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esprima-extract-comments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extract-comments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fastclick/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fecha/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hammerjs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-symbols/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/html-comment-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/image-size/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/indexes-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inline-manifest-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-absolute-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-svg/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-yaml/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/less/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.differencewith/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.isequal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.isfunction/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.isplainobject/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.memoize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.mergewith/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.throttle/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.unionwith/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/math-expression-evaluator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-cli-config/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object.assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse-code-context/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-calc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-colormin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-convert-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-comments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-duplicates/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-empty/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-overridden/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-discard-unused/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-filter-plugins/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-merge-idents/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-merge-longhand/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-merge-rules/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-message-helpers/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-font-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-gradients/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-params/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-minify-selectors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-normalize-charset/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-ordered-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-reduce-idents/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-reduce-initial/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-reduce-transforms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-selector-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-svgo/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-unique-selectors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss-zindex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/progress-bar-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/progress/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qr.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/reduce-css-calc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/reduce-function-call/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/shake.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sort-keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-comments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-css-comments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/svgo/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/svgo/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/touch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uniq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uniqs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vanilla-masker/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vendors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/verror/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vux-blazy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vux-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vux-xscroll/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vux/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vux/ssr/nuxt/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/webpack-merge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/whet.extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/x-photoswipe/package.json" />
+      <path value="$PROJECT_DIR$/projectPath/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="53" />
+    <option name="y" value="169" />
+    <option name="width" value="1321" />
+    <option name="height" value="1001" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vux" type="462c0819:PsiDirectoryNode" />
+              <item name="projectPath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vux" type="462c0819:PsiDirectoryNode" />
+              <item name="projectPath" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vux" type="462c0819:PsiDirectoryNode" />
+              <item name="projectPath" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vux" type="462c0819:PsiDirectoryNode" />
+              <item name="projectPath" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="piclist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vux" type="462c0819:PsiDirectoryNode" />
+              <item name="projectPath" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projectPath/src/style" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dc7b21d-b01e-4845-8286-21f30319ac31" name="Default Changelist" comment="" />
+      <created>1540430860957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540430860957</updated>
+      <workItem from="1540430863017" duration="90000" />
+      <workItem from="1540431581337" duration="3705000" />
+      <workItem from="1540451340156" duration="6701000" />
+      <workItem from="1540460009611" duration="2419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12915000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="247" y="46" width="1321" height="1001" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961479" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882273" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3280899" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/HelloWorld.vue" />
+    <entry file="file://$PROJECT_DIR$/projectPath/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/weather/list.vue" />
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/pic.vue" />
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/wechat/wechat.vue" />
+    <entry file="file://$PROJECT_DIR$/projectPath/src/style/theme.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/like.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/assets/css/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/kuaidi/kuaidi.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#465#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/weather/weather.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/components/piclist/picture.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectPath/src/mock/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4928">
+          <caret line="200" column="14" lean-forward="true" selection-start-line="200" selection-start-column="14" selection-end-line="200" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
